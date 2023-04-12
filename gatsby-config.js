@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/public",
   siteMetadata: {
     title: `Gatsby Glass`,
     author: {
@@ -7,7 +8,7 @@ module.exports = {
     },
     openGraphImage: `open-graph-image.png`,
     description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    siteUrl: `https://vemines.github.io/public/`,
     social: {
       twitter: `yinkakun`,
     },
