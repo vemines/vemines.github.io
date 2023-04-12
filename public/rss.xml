@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Glass RSS Feed]]></title><description><![CDATA[A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.]]></description><link>https://vemines.github.io/public</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 12 Apr 2023 17:59:13 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hi, I’m John Doe This website is a live example of a Gatsby Starter — it’s not a real blog.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Glass RSS Feed]]></title><description><![CDATA[A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.]]></description><link>https://vemines.github.io/public</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 12 Apr 2023 18:07:38 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hi, I’m John Doe This website is a live example of a Gatsby Starter — it’s not a real blog.
 People using this starter may want to add some…]]></description><link>https://vemines.github.io/public/about/</link><guid isPermaLink="false">https://vemines.github.io/public/about/</guid><content:encoded>&lt;h1&gt;Hi, I’m John Doe&lt;/h1&gt;
 &lt;p&gt;This website is a live example of a Gatsby Starter — it’s not a real blog.
 People using this starter may want to add some information to this page about them or their business.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.]]></description><link>https://vemines.github.io/public/contact/</link><guid isPermaLink="false">https://vemines.github.io/public/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
@@ -12,7 +12,7 @@ People using this starter may want to add some information to this page about th
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -25,13 +25,13 @@ People using this starter may want to add some information to this page about th
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -77,7 +77,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -90,13 +90,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -142,7 +142,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -155,13 +155,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -207,7 +207,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -220,13 +220,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -272,7 +272,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -285,13 +285,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -338,7 +338,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -351,13 +351,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -403,7 +403,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -416,13 +416,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -471,7 +471,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -484,13 +484,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -535,7 +535,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -548,13 +548,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -600,7 +600,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -613,13 +613,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -665,7 +665,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -678,13 +678,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -731,7 +731,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -744,13 +744,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -797,7 +797,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -810,13 +810,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -861,7 +861,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -874,13 +874,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -928,7 +928,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -941,13 +941,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -995,7 +995,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1008,13 +1008,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1062,7 +1062,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1075,13 +1075,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1128,7 +1128,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1141,13 +1141,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1192,7 +1192,7 @@ Phoebi volucris moveo.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1205,13 +1205,13 @@ Phoebi volucris moveo.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Rocket launch&quot;
         title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        src=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
+        srcset=&quot;/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
+/public/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
