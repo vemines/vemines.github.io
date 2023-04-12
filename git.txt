@@ -1,0 +1,4 @@
+gatsby build --prefix-paths
+git add -f public
+git commit -m "init"
+git push origin main
