@@ -4,9 +4,8 @@ template: about-template
 profile_image: ../../static/media/profile-image.jpg
 ---
 
-# Hi, I'm John Doe
+# Hi, I'm VeMines
 
-This website is a live example of a Gatsby Starter — it's not a real blog.
-People using this starter may want to add some information to this page about them or their business.
+This website is my blog base Gatsby Starter Glass
 
 
